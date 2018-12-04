@@ -1,0 +1,41 @@
+# On Startup
+import random
+import time
+print ("Accessing Mainframe")
+time.sleep(1)
+print ('Mainframe Accessed')
+time.sleep(0.5)
+print ("Loading Mainframe")
+time.sleep(4)
+print ("Mainframe Loaded")
+
+# Greetings
+
+hi= (' Hello User. How Are You? ')
+Hi= ('Hello User. How Are You?')
+hello= ('Hello User. How Are You?')
+Hello= ('Hello User. How Are You?')
+Howdy= ('Hello User. How Are You?')
+howdy= ('Hello User. How Are You?')
+
+# Responses to how are you
+
+good= (" Great! ")
+Good= ('Great!')
+well= ('Good!')
+Well= ('Good!')
+bad= (" Oh Sorry ")
+Bad= ('Oh Sorry')
+
+# Questions
+
+how_are_you= (" Good ")
+How_Are_You=('Good')
+
+# Closers
+
+bye= (" Bye ")
+Bye= ('Bye')
+shoo= (" As You Wish ")
+Scram= ('As You Wish')
+scram= ('As You Wish')
